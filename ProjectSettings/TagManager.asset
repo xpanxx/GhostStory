@@ -12,6 +12,7 @@ TagManager:
   - memory
   - Enemy
   - Ground
+  - Npc
   layers:
   - Default
   - TransparentFX

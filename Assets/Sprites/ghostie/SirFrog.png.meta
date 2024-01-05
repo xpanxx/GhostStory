@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 50d39d73bed02d94983667b63b2bc4a4
+guid: 3743070476ae5934898215e77430555e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,85 +123,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fall_0
+      name: SirFrog_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 4
-        width: 32
-        height: 28
+        y: 8
+        width: 64
+        height: 56
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7baaeb497c391a64e92204bdabda7d05
-      internalID: -1469880160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fall_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 4
-        width: 32
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f676ce339de3a74687efb01c994d0d6
-      internalID: 157478459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fall_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 4
-        width: 32
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7053391e5baa3e545ad25f4d2b7a81b1
-      internalID: 723343013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fall_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 4
-        width: 32
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b6a416b29d893c4b8826862854de244
-      internalID: -957130854
+      spriteID: 55c1592872fa39f45938cdf0dd51bf69
+      internalID: -1162115150
       vertices: []
       indices: 
       edges: []
@@ -217,10 +154,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      fall_0: -1469880160
-      fall_1: 157478459
-      fall_2: 723343013
-      fall_3: -957130854
+      SirFrog_0: -1162115150
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

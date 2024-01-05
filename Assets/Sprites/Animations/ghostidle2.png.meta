@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 35eafcf545447b7459728ee316bbebc7
+guid: 10a3450c6968cf9498c06901fd5e9407
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ghostidle_0
+      name: ghostidle2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0876a42cd216cc142a757f8d55fb8cca
-      internalID: 605377594
+      spriteID: 5f56a8b81fc80ab4a82e4708dcb0d166
+      internalID: -1906381873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_1
+      name: ghostidle2_1
       rect:
         serializedVersion: 2
         x: 32
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8156b9aa6ff37546a2e9305eb1a479c
-      internalID: -51969819
+      spriteID: a6a2961fad9cdee429e20b3c921d4092
+      internalID: -1213071765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_2
+      name: ghostidle2_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 651ae923f0d62234e8dc544085dbfdc1
-      internalID: -666195153
+      spriteID: 1d6e0c3e83a13664abae4c6044472626
+      internalID: 1536538331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_3
+      name: ghostidle2_3
       rect:
         serializedVersion: 2
         x: 96
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aaa10e552b5491b4a95c477d16d246a5
-      internalID: -624160093
+      spriteID: e9d8d721a9b4cbe4099faf45ba3869cd
+      internalID: 1975598311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_4
+      name: ghostidle2_4
       rect:
         serializedVersion: 2
         x: 128
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d16164a04142dd74fa87729190161939
-      internalID: 1304261351
+      spriteID: 8386956f921f0994f8a0009ef6409b4b
+      internalID: 2053682149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_5
+      name: ghostidle2_5
       rect:
         serializedVersion: 2
         x: 160
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e19302535031b240a1f60e031c0ce58
-      internalID: -144430538
+      spriteID: 160c6193deb73db4c890d61ceb0ea8d2
+      internalID: -109248478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_6
+      name: ghostidle2_6
       rect:
         serializedVersion: 2
         x: 192
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f56133e480397644957aca1bafb65d2
-      internalID: -752596667
+      spriteID: 0a3f75453789dee4c8562a64734dfc4e
+      internalID: 2098447688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_7
+      name: ghostidle2_7
       rect:
         serializedVersion: 2
         x: 224
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81fea4ea3d9be084eab7e577b736311e
-      internalID: -838748618
+      spriteID: af27e2f957ea9bb4db212616c7d91449
+      internalID: -1450552686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_8
+      name: ghostidle2_8
       rect:
         serializedVersion: 2
         x: 256
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d81bcfbf119d494485ef2114118d222
-      internalID: -1031271129
+      spriteID: e25cd758d39a84e4084d0dde5dde639f
+      internalID: 1280727030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_9
+      name: ghostidle2_9
       rect:
         serializedVersion: 2
         x: 288
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d5ca95cec967af438fa10cf60b5faa5
-      internalID: -1597777269
+      spriteID: d0eec44519e9564468101f066c361890
+      internalID: -419366016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_10
+      name: ghostidle2_10
       rect:
         serializedVersion: 2
         x: 320
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,20 +347,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 549c52111bfdef44bb1ca09ebb1c13d7
-      internalID: 167645172
+      spriteID: f8a3adfeae8d6c444a4b8b32ed329271
+      internalID: -1438502365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostidle_11
+      name: ghostidle2_11
       rect:
         serializedVersion: 2
         x: 352
-        y: 0
+        y: 4
         width: 32
-        height: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,8 +368,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37cc7d6e347b4d140aa92f6d803eb286
-      internalID: -502208676
+      spriteID: f4450b44860779f42b228fd4f2dd87f1
+      internalID: 1107872662
       vertices: []
       indices: 
       edges: []
@@ -385,18 +385,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      ghostidle_0: 605377594
-      ghostidle_1: -51969819
-      ghostidle_10: 167645172
-      ghostidle_11: -502208676
-      ghostidle_2: -666195153
-      ghostidle_3: -624160093
-      ghostidle_4: 1304261351
-      ghostidle_5: -144430538
-      ghostidle_6: -752596667
-      ghostidle_7: -838748618
-      ghostidle_8: -1031271129
-      ghostidle_9: -1597777269
+      ghostidle2_0: -1906381873
+      ghostidle2_1: -1213071765
+      ghostidle2_10: -1438502365
+      ghostidle2_11: 1107872662
+      ghostidle2_2: 1536538331
+      ghostidle2_3: 1975598311
+      ghostidle2_4: 2053682149
+      ghostidle2_5: -109248478
+      ghostidle2_6: 2098447688
+      ghostidle2_7: -1450552686
+      ghostidle2_8: 1280727030
+      ghostidle2_9: -419366016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

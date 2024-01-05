@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 50d39d73bed02d94983667b63b2bc4a4
+guid: 95795837f4be6284cbdc738bb2d6c49e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fall_0
+      name: defaultghostfinal_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,71 +137,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7baaeb497c391a64e92204bdabda7d05
-      internalID: -1469880160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fall_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 4
-        width: 32
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f676ce339de3a74687efb01c994d0d6
-      internalID: 157478459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fall_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 4
-        width: 32
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7053391e5baa3e545ad25f4d2b7a81b1
-      internalID: 723343013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fall_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 4
-        width: 32
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b6a416b29d893c4b8826862854de244
-      internalID: -957130854
+      spriteID: 2755b2f280874d94b99a01667b15050c
+      internalID: -888754822
       vertices: []
       indices: 
       edges: []
@@ -217,10 +154,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      fall_0: -1469880160
-      fall_1: 157478459
-      fall_2: 723343013
-      fall_3: -957130854
+      defaultghostfinal_0: -888754822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
