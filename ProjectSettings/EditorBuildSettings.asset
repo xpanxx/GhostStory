@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/LoseScreen.unity
     guid: 9f0085c407a94aa459c5d91778fddf52
   - enabled: 1
-    path: Assets/Scenes/WinScreen.unity
+    path: Assets/Scenes/GoodEnding.unity
     guid: 2a5c6c708d20e9649b8b6d9ab4406b1a
+  - enabled: 1
+    path: Assets/Scenes/BadEnding.unity
+    guid: 32662f1fbeca01a4a91579df1f5354e0
   m_configObjects: {}
